@@ -1,2 +1,2 @@
 # Geohydrological Analysis
-Delineating watershed using python tools
+Hydrological operations and analysing geospatial data using python
